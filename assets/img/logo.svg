@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 64" width="280" height="64" role="img" aria-label="Codeglint Software">
+  <defs>
+    <linearGradient id="cgL" x1="6" y1="2" x2="58" y2="62" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#608efa"/><stop offset=".55" stop-color="#1d4ed8"/><stop offset="1" stop-color="#122f7d"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="url(#cgL)"/>
+  <g fill="none" stroke="#fff" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M23.5 22 14 32l9.5 10"/><path d="M40.5 22 50 32l-9.5 10"/>
+  </g>
+  <path d="M32 23.5l2.35 4.9 4.9 2.35-4.9 2.35L32 38l-2.35-4.9-4.9-2.35 4.9-2.35z" fill="#a9c6ff"/>
+  <text x="80" y="34" font-family="Inter,Helvetica,Arial,sans-serif" font-size="24" font-weight="800" letter-spacing="-.9" fill="#0b1220">Codeglint</text>
+  <text x="81" y="49" font-family="Inter,Helvetica,Arial,sans-serif" font-size="10.5" font-weight="600" letter-spacing="3.2" fill="#6b7a90">SOFTWARE</text>
+</svg>

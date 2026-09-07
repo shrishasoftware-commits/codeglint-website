@@ -1,0 +1,6 @@
+.DS_Store
+._*
+_to_delete/
+*.bak
+*.backup.css
+Thumbs.db
